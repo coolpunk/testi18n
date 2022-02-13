@@ -1,0 +1,44 @@
+# English translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-02-13 21:01+0500\n"
+"PO-Revision-Date: 2022-02-13 20:39+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: main.py:28
+msgid ":gear: Настройки"
+msgstr ":gear: Settings"
+
+#: main.py:29
+msgid ":Russia: RU"
+msgstr ""
+
+#: main.py:30
+msgid ":Russia: RU :check_mark_button:"
+msgstr ""
+
+#: main.py:32
+msgid ":United_States: EN"
+msgstr ""
+
+#: main.py:33
+msgid ":United_States: EN :check_mark_button:"
+msgstr ""
+
+#: main.py:71
+msgid "Hello, <b>{0}!</b>"
+msgstr "Привет, <b>{0}!</b>"
+
