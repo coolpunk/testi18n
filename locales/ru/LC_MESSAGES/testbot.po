@@ -20,25 +20,25 @@ msgstr ""
 
 #: main.py:28
 msgid ":gear: Настройки"
-msgstr ""
+msgstr ":gear: Settings"
 
 #: main.py:29
 msgid ":Russia: RU"
-msgstr ""
+msgstr ":Russia: Русский"
 
 #: main.py:30
 msgid ":Russia: RU :check_mark_button:"
-msgstr ""
+msgstr ":Russia: Русский :check_mark_button:"
 
 #: main.py:32
 msgid ":United_States: EN"
-msgstr ""
+msgstr ":United_States: Английский"
 
 #: main.py:33
 msgid ":United_States: EN :check_mark_button:"
-msgstr ""
+msgstr ":United_States: Английский :check_mark_button:"
 
 #: main.py:71
 msgid "Hello, <b>{0}!</b>"
-msgstr ""
+msgstr "Привет, <b>{0}!</b>"
 
